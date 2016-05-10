@@ -1,0 +1,9 @@
+shapehier.triangle
+shapehier.cube
+shapehier.threeDShape
+shapehier.twoDShape
+shapehier.Shape
+shapehier.circle
+shapehier.rectangle
+shapehier.Shapehier
+shapehier.sphere

@@ -1,0 +1,9 @@
+university.University
+university.Teacher
+university.Community
+university.Administrator
+university.Employee
+university.Student
+university.Faculty
+university.Alumny
+university.Staff
